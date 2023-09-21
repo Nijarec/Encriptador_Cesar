@@ -1,0 +1,24 @@
+c:\users\nijarec\documents\visual studio 2015\Projects\Encriptador Cesar Code\Encriptador Cesar Code\bin\Debug\Encriptador Cesar Code.exe.config
+c:\users\nijarec\documents\visual studio 2015\Projects\Encriptador Cesar Code\Encriptador Cesar Code\obj\Debug\Encriptador Cesar Code.vbprojResolveAssemblyReference.cache
+c:\users\nijarec\documents\visual studio 2015\Projects\Encriptador Cesar Code\Encriptador Cesar Code\obj\Debug\Encriptador_Cesar_Code.Form1.resources
+c:\users\nijarec\documents\visual studio 2015\Projects\Encriptador Cesar Code\Encriptador Cesar Code\obj\Debug\Encriptador_Cesar_Code.Resources.resources
+c:\users\nijarec\documents\visual studio 2015\Projects\Encriptador Cesar Code\Encriptador Cesar Code\obj\Debug\Encriptador Cesar Code.vbproj.GenerateResource.Cache
+c:\users\nijarec\documents\visual studio 2015\Projects\Encriptador Cesar Code\Encriptador Cesar Code\obj\Debug\Encriptador Cesar Code.xml
+c:\users\nijarec\documents\visual studio 2015\Projects\Encriptador Cesar Code\Encriptador Cesar Code\bin\Debug\Encriptador Cesar Code.exe
+c:\users\nijarec\documents\visual studio 2015\Projects\Encriptador Cesar Code\Encriptador Cesar Code\bin\Debug\Encriptador Cesar Code.pdb
+c:\users\nijarec\documents\visual studio 2015\Projects\Encriptador Cesar Code\Encriptador Cesar Code\bin\Debug\Encriptador Cesar Code.xml
+c:\users\nijarec\documents\visual studio 2015\Projects\Encriptador Cesar Code\Encriptador Cesar Code\obj\Debug\Encriptador Cesar Code.exe
+c:\users\nijarec\documents\visual studio 2015\Projects\Encriptador Cesar Code\Encriptador Cesar Code\obj\Debug\Encriptador Cesar Code.pdb
+G:\Visual Studio 2015\Projects\Encriptador Cesar Code\Encriptador Cesar Code\bin\Debug\Encriptador Cesar Code.exe.config
+G:\Visual Studio 2015\Projects\Encriptador Cesar Code\Encriptador Cesar Code\bin\Debug\Encriptador Cesar Code.exe
+G:\Visual Studio 2015\Projects\Encriptador Cesar Code\Encriptador Cesar Code\bin\Debug\Encriptador Cesar Code.pdb
+G:\Visual Studio 2015\Projects\Encriptador Cesar Code\Encriptador Cesar Code\bin\Debug\Encriptador Cesar Code.xml
+G:\Visual Studio 2015\Projects\Encriptador Cesar Code\Encriptador Cesar Code\obj\Debug\Encriptador Cesar Code.vbproj.AssemblyReference.cache
+G:\Visual Studio 2015\Projects\Encriptador Cesar Code\Encriptador Cesar Code\obj\Debug\Encriptador Cesar Code.vbproj.SuggestedBindingRedirects.cache
+G:\Visual Studio 2015\Projects\Encriptador Cesar Code\Encriptador Cesar Code\obj\Debug\Encriptador_Cesar_Code.Form1.resources
+G:\Visual Studio 2015\Projects\Encriptador Cesar Code\Encriptador Cesar Code\obj\Debug\Encriptador_Cesar_Code.Resources.resources
+G:\Visual Studio 2015\Projects\Encriptador Cesar Code\Encriptador Cesar Code\obj\Debug\Encriptador Cesar Code.vbproj.GenerateResource.cache
+G:\Visual Studio 2015\Projects\Encriptador Cesar Code\Encriptador Cesar Code\obj\Debug\Encriptador Cesar Code.vbproj.CoreCompileInputs.cache
+G:\Visual Studio 2015\Projects\Encriptador Cesar Code\Encriptador Cesar Code\obj\Debug\Encriptador Cesar Code.exe
+G:\Visual Studio 2015\Projects\Encriptador Cesar Code\Encriptador Cesar Code\obj\Debug\Encriptador Cesar Code.xml
+G:\Visual Studio 2015\Projects\Encriptador Cesar Code\Encriptador Cesar Code\obj\Debug\Encriptador Cesar Code.pdb
